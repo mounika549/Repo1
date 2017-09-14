@@ -1,0 +1,10 @@
+ Volume in drive C is Default
+ Volume Serial Number is F0F0-C728
+
+ Directory of C:\Users\pulikallam\Desktop\Dummyproject
+
+09/14/2017  02:25 PM    <DIR>          .
+09/14/2017  02:25 PM    <DIR>          ..
+09/14/2017  02:25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,252,593,152 bytes free
